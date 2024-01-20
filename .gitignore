@@ -1,0 +1,7 @@
+*.xlsx
+posteriorSpline.m
+anteriorSpline.m
+spline_posterior.m
+spline_anterior.m
+/data/
+spline_cubic.m
